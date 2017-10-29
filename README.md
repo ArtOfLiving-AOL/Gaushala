@@ -1,7 +1,5 @@
 # Gaushala
-App for Gaushala 
-
-Art of living Gaushala 
+App for Art Of Livnig Gaushala 
 
 Below a few links about the Gaushala.
 
